@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FC64BE9F-CAA4-4F1C-914C-AB2A43213492"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8F4AD0B-8BFD-4528-ACE4-F338E63A7C09"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSArchitecture_MVVM/Controllers/Home/HomeVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getDashboardData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "646AB207-C335-448A-A3F9-C7DE09ED65EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSArchitecture_MVVM/Networks/UserService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchDashBoardData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "646AB207-C335-448A-A3F9-C7DE09ED65EE - a2091eecb0699be0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSArchitecture_MVVM.UserService.fetchDashBoardData(completion: (iOSArchitecture_MVVM.Result&lt;Any&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iOSArchitecture_MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tarun/Documents/Apps/MVVM_Architecture_iOS-master/iOSArchitecture_MVVM/Networks/UserService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "646AB207-C335-448A-A3F9-C7DE09ED65EE - 793486af9a67da7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (iOSArchitecture_MVVM.Result&lt;Swift.Optional&lt;iOSArchitecture_MVVM.BaseData&gt;&gt;) -&gt; () in iOSArchitecture_MVVM.UserService.fetchDashBoardData(completion: (iOSArchitecture_MVVM.Result&lt;Any&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iOSArchitecture_MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tarun/Documents/Apps/MVVM_Architecture_iOS-master/iOSArchitecture_MVVM/Networks/UserService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "245">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "500E8A2E-E3BE-4C00-9FEB-624B2CBB1F6E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSArchitecture_MVVM/Controllers/Home/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "urlTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
